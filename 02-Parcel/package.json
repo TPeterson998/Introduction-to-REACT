@@ -1,0 +1,14 @@
+{
+  "name": "02-Parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git status && git add -A && git commit -m \"completed the parcelJS exercise\" && git push",
+    "build": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
